@@ -16,3 +16,7 @@ Desafio consiste em criar uma To-do List com algumas regras, como:
 - POST /tasks → Cria uma nova tarefa
 - PUT /tasks/:id → Atualiza uma tarefa
 - DELETE /tasks/:id → Remove uma tarefa
+
+### - Start
+
+Para rodar, precisa ser instalado as dependencias do node e rodar o npm run dev.
